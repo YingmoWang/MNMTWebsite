@@ -3,8 +3,8 @@ include: ['.htaccess']
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
 markdown: kramdown
 highlights: pygments
-url: 
-cdn_url: 7u2t01.com1.z0.glb.clouddn.com
+url: YingmoWang.github.io
+baseurl：/MNMTWebsite
 lsi: false
 safe: true
 timezone: Asia/Shanghai
@@ -24,12 +24,11 @@ JB :
   IMAGE_PATH : http://coolshell.info/images
 
 # presonal config
-domain: http://coolshell.info
-title: Lippi-浮生志
+domain: http://mnmt.xyz
+title: Centre of Micro Nano Manufacturing Technology
 description: Draw my life with code
-author: Lippi.OuYang
-email: ouyanglip@gmail.com
-github: LippiOuYang
+author: Wangyingmo
+email: wangyingmo@tju.edu.cn
 
 config:
   js_dir:
